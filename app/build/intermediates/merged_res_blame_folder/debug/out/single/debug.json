@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\drawable_email.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\drawable\\email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\drawable_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\drawable\\baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.money_master_1.app-merged_res-35:/layout_fragment_home.xml.flat",
+        "source": "com.example.money_master_1.app-main-37:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\drawable_btn_top.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\drawable\\btn_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\drawable_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\drawable\\baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\anim_slide_to_right.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\anim\\slide_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\drawable_password.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\drawable\\password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\drawable_name_icon.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\drawable\\name_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\anim_slide_from_left.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\anim\\slide_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\anim_slide_to_left.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\anim\\slide_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\drawable_person_icon.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\drawable\\person_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\drawable_background_graph.jpg.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\drawable\\background_graph.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\drawable_email_icon.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\drawable\\email_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\drawable_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\drawable\\baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\layout_dashboard_transaction_row.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\layout\\dashboard_transaction_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\drawable_home_icon1.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\drawable\\home_icon1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\anim_slide_from_right.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\anim\\slide_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\drawable_table_border_bottom.xml.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\drawable\\table_border_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-merged_res-35:\\drawable_person_background2.jpg.flat",
+        "source": "C:\\Users\\Elitebook 830 G7\\.gradle\\daemon\\8.0\\com.example.money_master_1.app-main-37:\\drawable\\person_background2.jpg"
+    }
+]
